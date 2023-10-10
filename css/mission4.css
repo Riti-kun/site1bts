@@ -1,0 +1,99 @@
+main{
+    border: 2px solid black;
+    margin: auto;
+    width: 70%;
+    height: 1300px;
+    padding: 6%;
+    background-color: #E5E7E9;
+}
+
+.moi1{
+    margin-top: 50px;
+    width: 50%;
+    height: 200px;
+    padding: 6%;
+    margin-bottom: 5%;
+    float: left;
+    border-radius: 10%;
+    background-color: #D0D3D4 ;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.2);
+}
+.moi{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    padding: 5%;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 5%;
+}
+
+.formation1{
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    padding: 5%;
+    margin-bottom: 5%;
+    float: left;
+    border-radius: 10%;
+    background-color: #D0D3D4 ;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.2);
+
+}
+.formation{
+    margin-left: 5%;
+    width: 20%;
+    height: 200px;
+    padding: 5%;
+    margin-bottom: 5%;
+    float: left;
+    border-radius: 10%;
+    background-color: #D0D3D4 ;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.2);
+
+}
+
+.pro1{
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    padding: 5%;
+    margin-bottom: 5%;
+    float: left;
+    border-radius: 10%;
+    background-color: #D0D3D4 ;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.2);
+
+}
+.pro{
+    margin-left: 5%;
+    width: 20%;
+    height: 200px;
+    padding: 5%;
+    margin-bottom: 5%;
+    float: left;
+    border-radius: 10%;
+    background-color: #D0D3D4 ;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.2);
+
+}
+
+
+.talent1{
+    margin: auto;
+    width: 80%;
+    height: 30px;
+    padding: 5%;
+    margin-bottom: 5%;
+    float: left;
+    background-color: #D0D3D4 ;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.2);
+}
+
+.fight{
+    text-align: center;
+}
+
+p{
+    font-size: large;
+}
