@@ -1,0 +1,33 @@
+header{
+    background-color: brown;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    font-size: 36px;
+}
+
+section{
+    padding: 20px;
+
+}
+
+h2{
+    font-size: 24px;
+    color: aquamarine;
+}
+
+p{
+    font-size: 24px;
+    line-height: 1.5;
+    color: black;
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
