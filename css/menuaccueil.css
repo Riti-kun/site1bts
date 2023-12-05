@@ -5,7 +5,10 @@
     font-family: Avenir, sans-serif;
 }
 body{
-    background-image: url(../img/silver-wolf.gif);
+    background-image: url(../img/walp.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden;
 }
 
 h1{

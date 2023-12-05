@@ -1,0 +1,26 @@
+button {
+    display: inline-block;
+    background-color: #4daac6;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;  
+    width: 100px;
+    height: 120;
+    font-size: 1.0em;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 30px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+  }
+
+button:hover{
+    background-color: #435eb6;
+    border: 2px solid black;
+    color: black;
+    transition: 150ms;
+}
